@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/26059824/quiz.code.txt)
+
 
 <html lang="en">
   <head>
