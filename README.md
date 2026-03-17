@@ -1,5 +1,5 @@
-[quiz code.txt](https://github.com/user-attachments/files/26059824/quiz.code.txt)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/26059824/quiz.code.txt)
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
